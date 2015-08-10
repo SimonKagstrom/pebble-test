@@ -1,0 +1,18 @@
+{
+  "uuid": "987d7d84-158f-4b6e-a10d-fff12cf575c4",
+  "shortName": "Tutorial",
+  "longName": "Tutorial",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
